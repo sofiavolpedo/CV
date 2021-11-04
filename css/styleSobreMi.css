@@ -1,0 +1,27 @@
+body{
+	background-image:url(../img/1300.jpg);
+	background-size:cover;   
+	height:100%;
+	width: 100%; 
+}
+
+h1 {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.3em;
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 84.69%;
+    font-feature-settings: "cpsp" on;
+    color: black;
+  }
+
+  .space {
+    height:100px;
+	width:100px;
+}
